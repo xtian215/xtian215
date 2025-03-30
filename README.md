@@ -1,4 +1,4 @@
-## Hi I am Christian Nicole Delfin, QA Manual and Automation Engineer. 
+## Hi I'm Christian Nicole Delfin, QA Manual and Automation Engineer. 
 ## 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Yuri.Nicole)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xtiannicole215@yahoo.com) 
